@@ -10,7 +10,7 @@ sharding-sphere-demo
 
 
 #### demo演示
-demo-mq-kafka  
+:fire: demo-mq-kafka  
 proj   
 proj_springboot_applicatoinevent  
 proj_springboot_webflux  
