@@ -25,7 +25,7 @@
         <div class="no-logo">JSON转sql</div>
     </div>
 </a>		
- target="_blank" href="https://www.bejson.com/json2javapojo/new/">
+<a target="_blank" href="https://www.bejson.com/json2javapojo/new/">
     <div class="item">
         <div class="no-logo">JSON生成Java实体类</div>
     </div>
